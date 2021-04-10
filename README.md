@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/mobilefirst-solution-using-css-flexbox-vmQl9JXOY)
 - Live Site URL: [Add live site URL here](https://pensive-johnson-68c709.netlify.app)
 
 ## My process
